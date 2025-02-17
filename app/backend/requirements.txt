@@ -6,7 +6,7 @@
 #
 aiofiles==24.1.0
     # via quart
-aiohappyeyeballs==2.4.0
+aiohappyeyeballs==2.4.6
     # via aiohttp
 aiohttp==3.10.11
     # via
